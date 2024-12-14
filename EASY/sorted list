@@ -1,0 +1,3 @@
+list1=list(input("enter the list 1 "))
+list2=list(input("enter the list 2 "))
+print(result)
